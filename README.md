@@ -49,4 +49,4 @@ Ensure you have basic familiarity with React.js to navigate and customize the ap
 
 Happy coding! If you have any questions or need assistance, feel free to reach out.
 
-Project created by Rishi Gupta 🤙🏼
+Project created by Shardul Vikram Singh 🤙🏼
